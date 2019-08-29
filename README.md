@@ -1,4 +1,4 @@
-![STL React Meetup](https://github.com/zipline/react-meetup/meetup.svg)
+![STL React Meetup](https://github.com/zipline/react-meetup/blob/master/meetup.svg)
 
 A place to submit topic ideas for the STL React Meetup
 
